@@ -162,3 +162,7 @@ cython_debug/
 
 
 /flutter-engine-binaries-for-arm/
+/app_3_10_5/build/
+app_3_10_5/pubspec.lock
+/app_3_10_5/pubspec.lock
+/*/pubspec.lock

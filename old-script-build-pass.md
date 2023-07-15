@@ -16,7 +16,7 @@ C:\Users\natth\fvm\default\bin\cache\dart-sdk\bin\dart.exe ^
   --output-dill build\kernel_snapshot.dill ^
   --verbose ^
   --depfile build\kernel_snapshot.d ^
-  package:myapp/main.dart
+  package:app_3_10_5/main.dart
 
 <!-- linux root path -->
 <!-- /mnt/d/ku-csc/smartbin-gui-new/flutter-engine-binaries-for-arm/arm/gen_snapshot_linux_x64_release \
@@ -52,7 +52,7 @@ C:\Users\natth\fvm\default\bin\cache\dart-sdk\bin\dart.exe ^
     build/kernel_snapshot.dill -->
 
 
-scp -r scp /mnt/d/ku-csc/smartbin-gui-new/myapp/build/flutter_assets pi@192.168.1.105:/home/pi
+scp -r scp /mnt/d/ku-csc/smartbin-gui-new/app_3_10_5/build/flutter_assets pi@192.168.1.105:/home/pi
 12345678
 
 
