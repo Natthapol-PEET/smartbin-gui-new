@@ -1,4 +1,4 @@
-# app_3_10_5
+# smartbin_ui_flutter
 
 A new Flutter project.
 

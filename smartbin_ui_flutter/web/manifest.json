@@ -1,6 +1,6 @@
 {
-    "name": "app_3_10_5",
-    "short_name": "app_3_10_5",
+    "name": "smartbin_ui_flutter",
+    "short_name": "smartbin_ui_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
